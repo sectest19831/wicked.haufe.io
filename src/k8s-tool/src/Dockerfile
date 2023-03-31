@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.14
 
 
 LABEL maintainer="Michal Orzechowski <orzechowski.michal@gmail.com>, Martin Danielsson <martin.danielsson@haufe-lexware.com>"
